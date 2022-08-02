@@ -1,15 +1,3 @@
+<img width="773" alt="image" src="https://user-images.githubusercontent.com/42496280/182364267-bb3d39b3-9870-47ac-a0cc-3150048df671.png">
 
-- UI Implementation / assignee:"@inherit" / component:"@inherit" / labels:"@inherit" / fixversion:"@inherit" / affectedversion:"@inherit" / estimate:"2h"
-
-- Testing and Validation / assignee:"@inherit" / component:"@inherit" / labels:"@inherit" / fixversion:"@inherit" / affectedversion:"@inherit" / estimate:"4h"
-
-- Code Review / assignee:"@inherit" / component:"@inherit" / labels:"@inherit" / fixversion:"@inherit" / affectedversion:"@inherit" / estimate:"3h"
-
-- Discuss Developer,PO and Tester / assignee:"@inherit" / component:"@inherit" / labels:"@inherit" / fixversion:"@inherit" / affectedversion:"@inherit" / estimate:"10m"
-
-- QA-Identify Test Cases / assignee:"pavankumar.valiveti@thermofisher.com" / component:"@inherit" / labels:"@inherit" / fixversion:"@inherit" / affectedversion:"@inherit" / estimate:"5h"
-
-- QA-Test and Results Capture / assignee:"pavankumar.valiveti@thermofisher.com" / component:"@inherit" / labels:"@inherit" / fixversion:"@inherit" / affectedversion:"@inherit" / estimate:"2h"
-
--PO-Review Test Case and Approve Test Results / component:"@inherit" / labels:"@inherit," /fixversion:"@inherit" / affectedversion:"@inherit" /assignee:"sasi.dhanasekar@thermofisher.com" / estimate:"2h"
 
